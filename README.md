@@ -21,7 +21,7 @@ Solution:
 
 2. The weight of each edge is the length of the suffix/prefix overlap of each pair of snippets. Write a string suffix-prefix comparison function for this (typical leetcode style problem).
 
-3. Set the NEGATIVE of the overlap length as the weight of each edge on the graph.
+3. Define the NEGATIVE of the overlap length to be the weight of each edge on the graph.
 
 4. The problem is now a Travelling Salesperson Problem. We want to visit all the nodes (snippets) while minimizing costs (highest total overlap length).
 
