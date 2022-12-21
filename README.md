@@ -1,2 +1,2 @@
 # IT5005-Assignment1
-Code for the questions
+For a class project.
