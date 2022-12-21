@@ -23,7 +23,7 @@ Solution:
 
 3. Define the NEGATIVE of the overlap length to be the weight of each edge on the graph.
 
-4. The problem is now a Travelling Salesperson Problem. We want to visit all the nodes (snippets) while minimizing costs (highest total overlap length).
+4. The problem is now a Travelling Salesperson Problem. We want to visit all the nodes (snippets) while minimizing costs (so we want highest total overlap length).
 
 5. Apply Simulated Annealing Algorithm to this problem. Simulated Annealing works as follows:
  
